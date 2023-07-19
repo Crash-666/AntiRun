@@ -1,0 +1,14 @@
+
+
+
+isRoot：true
+手机厂商：Redmi
+手机型号：22021211RC
+手机当前系统语言：zh
+Android系统版本号：12
+手机IMEI：null
+isRoot：true
+手机厂商：Redmi
+手机型号：22021211RC
+手机当前系统语言：zh
+Android系统版本号：12

